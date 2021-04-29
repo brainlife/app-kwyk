@@ -1,4 +1,5 @@
 {
-    "t1": "t1.nii.gz",
-    "outres": "1 1 1"
+    "samples": 2,
+    "model": "bvwn_multi_prior",
+    "t1": "testdata/t1.nii.gz"
 }
