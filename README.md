@@ -33,7 +33,7 @@ We ask that you the following articles when publishing papers that used data, co
 
 ### On Brainlife.io
 
-You can submit this App online at [https://doi.org/10.25663/bl.app.X](https://doi.org/10.25663/bl.app.X) via the "Execute" tab.
+You can submit this App online at [https://doi.org/10.25663/bl.app.218](https://doi.org/10.25663/bl.app.218) via the "Execute" tab.
 
 ### Running Locally (on your machine)
 
