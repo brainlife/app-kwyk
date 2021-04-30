@@ -13,7 +13,7 @@ More information can be found [here](https://github.com/neuronets/nobrainer#read
 - [Soichi Hayashi](hayashis@iu.edu)
 
 ### Project Director
-– [Franco Pestilli](pestilli@utexas.edu)
+- [Franco Pestilli](pestilli@utexas.edu)
 
 #### Copyright (c) 2021 brainlife.io The University of Texas at Austin and Indiana University
 
